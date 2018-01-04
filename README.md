@@ -19,3 +19,4 @@ git config --global core.editor nano
 git config --list
 git config --global --list
 ```
+Esta línea fue creada en la rama master.
